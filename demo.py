@@ -1,1 +1,4 @@
-print("This is the one the python file created fot the learning purpose")
+a=10
+b=20
+print (a)
+print("his is the one the python file created fot the learning purpose")
