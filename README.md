@@ -14,14 +14,6 @@ Advantage:
 
 [Predictive Maintanence.pdf](https://github.com/user-attachments/files/29260995/Predictive.Maintanence.pdf)
 
-# Project 2: 
-I have did another project that is hosting a Website on EC2 instance:
-
-- Website done with HTML, CSS. https://github.com/Derick-Roshan/Portfolio-website.git
-- We can deploy the application or website with Terraform Automation.
-- Used Tools: AWS Provider, Github, Git, Terraform.
-  
-- Terraform: https://github.com/Derick-Roshan/web-server-terraform.git
 
 
 
